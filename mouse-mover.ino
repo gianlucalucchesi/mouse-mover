@@ -1,8 +1,8 @@
 #include <Mouse.h>
 
 /*
-    NAME: Arduino Mouse Jiggler
-    DATE: 2019-09-18
+    NAME: Arduino Mouse Mover
+    DATE: 2022-09-05
     DESC: Arduino based mouse emulator
     VERSION: 1.0
 */
